@@ -1,0 +1,13 @@
+//
+//  Story.swift
+//  ReaderApp
+//
+//  Created by SABYASACHI POLLEY on 07/10/20.
+//
+
+import UIKit
+
+class Story: NSObject {
+static let shared = Story()
+    var story = "One day a young man was standing in the middle of the town proclaiming that he had the most beautiful heart in the whole valley. A large crowd gathered and they all admired his heart for it was perfect. There was not a mark or a flaw in it.\n\nYes, they all agreed it truly was the most beautiful heart they had ever seen. The young man was very proud and boasted more loudly about his beautiful heart. Suddenly, an old man appeared at the front of the crowd and said, “Why your heart is not nearly as beautiful as mine.”\n\nThe crowd and the young man looked at the old man’s heart. It was beating strongly but full of scars. It had places where pieces had been removed and other pieces put in but they didn’t fit quite right and there were several jagged edges. In fact, in some places there were deep gouges where whole pieces were missing.\n\nThe people starred how could he say his heart is more beautiful, they thought? The young man looked at the old man’s heart and saw its state and laughed. “You must be joking,” he said. “Compare your heart with mine ..mine is perfect and yours is a mess of scars and tears.”\n\n“Yes,” said the old man, “Yours is perfect looking … but I would never trade with you. You see, every scar represents a person to whom I have given my love….. I tear out a piece of my heart and give it to them … and often they give me a piece of their heart which fits into the empty place in my heart …\n\nBut because the pieces aren’t exact, I have some rough edges, which I cherish, because they remind me of the love we shared. Sometimes I have given pieces of my heart away … and the other person hasn’t returned a piece of his heart to me.\n\nThese are the empty gouges … giving love is taking a chance. Although these gouges are painful, they stay open, reminding me of the love I have for these people too … and I hope someday they may return and fill the space I have waiting.\n\nSo now do you see what true beauty is?” The young man stood silently with tears running down his cheeks. He walked up to the old man, reached into his perfect young and beautiful heart, and ripped a piece out. He offered it to the old man with trembling hands.\n\nThe old man took his offering, placed it in his heart and then took a piece from his old scarred heart and placed it in the wound in the young man’s heart. It fit …. but not perfectly, as there were some jagged edges. The young man looked at his heart, not perfect anymore but more beautiful than ever, since love from the old man’s heart flowed into his. They embraced and walked away side by side."
+}
